@@ -2,7 +2,7 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/122843056/237317755-5b364351-ae5c-42cc-ae8e-50afc9bea80c.png" height= "120"/>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&width=1000&lines=C+-+Sorting+algorithms+&+Big+O+\(:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&width=1000&lines=C+-+Sorting+algorithms+and+Big+O+\(:)](https://git.io/typing-svg)
 
 0x1B. C - Sorting algorithms & Big O
 
